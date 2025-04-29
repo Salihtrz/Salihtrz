@@ -11,3 +11,5 @@
 - **Frontend Development:** HTML, CSS, JavaScript  
 - **Machine Learning:** Matlab
 - **Hardware Project:** ESP8266, Arduino
+
+In addition to these, I have worked on projects using **Python**, **Java**, and **C** programming languages.
